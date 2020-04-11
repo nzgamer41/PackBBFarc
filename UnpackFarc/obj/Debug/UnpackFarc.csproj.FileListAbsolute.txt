@@ -1,0 +1,6 @@
+C:\Users\Alex\Downloads\UnpackBBFarc-master\UnpackBBFarc-master\UnpackFarc\bin\Debug\UnpackFarc.exe.config
+C:\Users\Alex\Downloads\UnpackBBFarc-master\UnpackBBFarc-master\UnpackFarc\bin\Debug\UnpackFarc.exe
+C:\Users\Alex\Downloads\UnpackBBFarc-master\UnpackBBFarc-master\UnpackFarc\bin\Debug\UnpackFarc.pdb
+C:\Users\Alex\Downloads\UnpackBBFarc-master\UnpackBBFarc-master\UnpackFarc\obj\Debug\UnpackFarc.csprojAssemblyReference.cache
+C:\Users\Alex\Downloads\UnpackBBFarc-master\UnpackBBFarc-master\UnpackFarc\obj\Debug\UnpackFarc.exe
+C:\Users\Alex\Downloads\UnpackBBFarc-master\UnpackBBFarc-master\UnpackFarc\obj\Debug\UnpackFarc.pdb

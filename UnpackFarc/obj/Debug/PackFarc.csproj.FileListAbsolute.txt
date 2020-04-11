@@ -1,0 +1,5 @@
+C:\Users\Alex\Downloads\UnpackBBFarc-master\UnpackBBFarc-master\UnpackFarc\bin\Debug\PackFarc.exe.config
+C:\Users\Alex\Downloads\UnpackBBFarc-master\UnpackBBFarc-master\UnpackFarc\bin\Debug\PackFarc.exe
+C:\Users\Alex\Downloads\UnpackBBFarc-master\UnpackBBFarc-master\UnpackFarc\bin\Debug\PackFarc.pdb
+C:\Users\Alex\Downloads\UnpackBBFarc-master\UnpackBBFarc-master\UnpackFarc\obj\Debug\PackFarc.exe
+C:\Users\Alex\Downloads\UnpackBBFarc-master\UnpackBBFarc-master\UnpackFarc\obj\Debug\PackFarc.pdb
